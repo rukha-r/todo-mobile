@@ -1,0 +1,12 @@
+{
+  "name": "React-App-Full",
+  "displayName": "React-App-Full",
+  "expo": {
+    "name": "React-App-Full",
+    "slug": "React-App-Full",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
